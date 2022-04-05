@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently Stuyding **Computer Engineering at National University of Singapore**
 
-- 🌱 I’m currently learning **PostgreSQL**
+- 🌱 I’m currently learning **PostgreSQL & x86 Assembly**
 
 - 🤝 I’m looking for help with **being a better person**
 
