@@ -5,15 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=poopies99" alt="poopies99" /></a> </p>
 
-- 🔭 I’m currently Stuyding **Computer Engineering at National University of Singapore**
+- 🔭 I’m currently Working as a **Site Reliability Engineer at Central Provident Fund Board**
 
-- 🌱 I’m currently learning **PostgreSQL & x86 Assembly**
+- 🌱 I’m currently learning **Kubernetes & Terraform**
 
-- 🤝 I’m looking for help with **being a better person**
-
-- 👨‍💻 All of my projects are available at [https://e0544145.wixsite.com/about](https://e0544145.wixsite.com/about)
-
-- 💬 Ask me about **our purpose in the universe**
+- 💻 I'm currently working on an Algorithmic Trading Bot
 
 - 📫 How to reach me **e0544145@u.nus.edu**
 
